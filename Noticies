@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <title>Pàgina de notícies ITIC</title>
+</head>
+<body>
+
+<h1>Notícies ITIC</h1>
+
+<h2>Un robot aspirador “escapa” de casa i acaba en una cafeteria</h2>
+
+<p>Un veí de Girona va alertar la policia després de veure un petit objecte rodó creuant lentament el carrer. Resulta que era el robot aspirador d’una família del barri, que havia trobat la porta oberta i havia decidit “fer una volta pel món”.</p>
+
+<p>El robot, un model intel·ligent amb connexió Wi-Fi, va sortir de casa quan els propietaris ventilaven el menjador. Després de recórrer uns 300 metres, va entrar en una cafeteria on el personal, sorprès, el va confondre amb una joguina deixada per un nen. “Només volia netejar una mica el terra del local”, va bromejar el propietari.</p>
+
+<p>Els tècnics van aconseguir rastrejar-lo gràcies a la connexió de l’app mòbil del propietari, que mostrava la seva ubicació en temps real. Finalment, el robot va ser retornat a casa “sense danys, però amb molta experiència”, segons va dir la família a les xarxes socials.</p>
+
+<img src="roomba.jpg" alt="Roomba dada a la fuga"
+
+<h3>Fonts de la notícia</h3>
+<ol>
+    <li><a href="https://www.lavanguardia.com" target="_blank">La Vanguardia</a></li>
+    <li><a href="https://www.bbc.com" target="_blank">BBC Tech</a></li>
+    <li><a href="https://www.reddit.com/r/funny" target="_blank">Reddit TechHumor</a></li>
+</ol>
+
+<h3>Altres notícies d’interès</h3>
+<ul>
+    <li>Un dron confós amb una cigonya fa saltar les alarmes a Lleida.</li>
+    <li>Una nena de 6 anys compra 200 gelats amb el mòbil del seu pare.</li>
+    <li>Un cotxe autònom es queda bloquejat en una rotonda durant 20 minuts.</li>
+</ul>
+
+<h3>Glossari</h3>
+<p><strong>Robot aspirador:</strong> Aparell domèstic capaç de netejar el terra de manera automàtica gràcies a sensors i programació intel·ligent.</p>
+<p><strong>Wi-Fi:</strong> Tecnologia que permet connectar dispositius sense fils a una xarxa d’Internet o a altres aparells.</p>
+
+</body>
+</html>
